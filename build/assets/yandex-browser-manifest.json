@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "api_version": 1,
+  "layout": {
+    "logo": "yandex-browser-50x50.png",
+    "color": "#FFF",
+    "show_title": true
+  },
+  "short_name": "GraphQLXeq",
+  "name": "GraphQL xeqout",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
